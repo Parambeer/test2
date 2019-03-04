@@ -1,0 +1,19 @@
+Thank you for taking the Planted Tree Digital Web Development test. Below are instructions on how I would like you to complete the test.
+
+I want you to create a website with the PSD that is provided. In the file, you will find all images, fonts and colors needed for you to reproduce the image found.
+
+In this test, we are looking for a few key factors in your development capabilities.
+
+1. Your usage of Bootstrap.
+2. Your ability to extract images and colors from a PSD
+3. Your ability to determine fonts used and add them to your site via Google Fonts.
+4. The speed at which you can development
+5. Your ability to take a desktop design and convert it into mobile.
+
+Test Instructions.
+
+Create the attached website design using HTML, CSS and Javascript. You are required to use Bootstrap 4 for this test. I would also like you to make the website responsive. You will need to be able to judge for yourself what the mobile website should look like based on best practices and standards. You only need to develop up to the section that is in the PNG img within the test materials folder.
+
+Once you complete your test, either host up the site so I can see it, or send me the test materials. You will also need to respond to the questions that were in the email once the test is completed.
+
+Good luck and I look forward to your submission.
