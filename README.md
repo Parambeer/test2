@@ -1,2 +1,2 @@
 # Test
-This is a test site and looks amazing.
+This is a test website and looks amazing.
